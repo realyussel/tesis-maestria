@@ -1,0 +1,5 @@
+Todo el sistema económico funciona a partir de la cadena de valor, pasando productos desde la plataforma petrolera o la mina y poco a poco agregar valor pasando de proceso en proceso, a veces cruzando el mundo varias veces hasta llegar a la tienda en el centro comercial como un producto terminado que está listo para ser utilizado. Dicha cadena de valor se podría seguir con el apoyo de la tecnología Blockchain y dar seguimiento a cada pieza o componente de cualquier producto que compremos.
+
+imagina que cada pieza de tu coche o celular pudiera ser seguida hacia atrás hasta llegar a la mina de la que se extrae el silicio, coltán o aluminio, lo mismo sucedería con todos los trámites, pago de impuestos, seguros, seguimiento a facturas, etc. todo en un sistema electrónico inviolable y transparente.
+
+El Blockchain puede impulsar la productividad en las cadenas de valor
