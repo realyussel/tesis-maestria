@@ -1,4 +1,26 @@
+new_session: true
+book_filename: "blockchain"
+repo: https://github.com/realyussel/blockchain
+edit: "https://github.com/realyussel/blockchain/edit/master/%s"
+before_chapter_script: _common.R
+clean: [packages.bib]
 delete_merged_file: true
+# Ajustes
+output_dir: dosc
 language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabla '
+    eq: 'Ecuación '
+    thm: 'Teorema '
+    lem: 'Lema '
+    def: 'Definición '
+    cor: 'Corolario '
+    prp: 'Proposición '
+    exm: 'Ejemplo '
+    exr: 'Ejercicio '
+    proof: 'Demostración. '
+    remark: 'Nota: '
+    solution: 'Solución. '
   ui:
-    chapter_name: "Chapter "
+    chapter_name: 'Capítulo '

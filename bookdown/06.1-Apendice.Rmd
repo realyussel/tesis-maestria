@@ -1,0 +1,5 @@
+# Algo
+
+IIoT: La Internet industrial de las cosas se refiere a conectar a Internet elementos de la industria (incluida la fabricación y la gestión de la energía) y el concepto está estrechamente relacionado con el de Industria 4.0.
+
+P2P: no existe un usuario que tenga más poder que otro en la red y todos los nodos son iguales entre sí. En las redes entre pares o P2P las aplicaciones que ejecutan sus usuarios son a la vez clientes y servidores

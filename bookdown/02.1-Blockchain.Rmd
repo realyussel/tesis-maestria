@@ -1,0 +1,121 @@
+# Definición de Blockchain {-}
+
+## Introducción a Blockchain
+
+Blockchain es una de las tecnologías más disruptivas de la actualidad (más allá de las criptomonedas), es una herramienta nueva (ideada por "Satoshi Nakamoto" en 2008) que en los últimos años ha generado grandes expectativas. Y es tendencia en el desarrollo de tecnologías de software (DApps[^dapps]) que esta creciendo y madurando rapidamente.
+
+[^dapps]: **Las DApps** (o Aplicaciones descentralizadas) son una categoría especial de aplicaciones que funciona en base a un sistema de computación distribuido, generalmente a través de tecnología Blockchain.
+
+<!-- La base de esta disrupción es la confianza. -->
+
+> Algunos expertos afirman que Blockchain es una tecnología tan prometedora como lo era Internet hace 20 años.
+
+Si bien, el fúturo de Blockchain es una incógnita, tambien es muy probable que sea la próxima "revolución tecnologíca" que  cambiará la forma en que las entidades y particulares interactuamos a través de la red. Quizas, sólo sea cuestión de tiempo para una adopción progresiva de esta tecnología.
+
+Diferentes empresas e instituciones (públicas y privadas) han apostado por la tecnología Blockchain, pero antes de entender cúales son sus aplicaciones y aspiraciones, es de vital importancia responder exactamente ¿Qué es y Qué ofrece Blockchain?.
+
+## ¿Qué es Blockchain?
+
+La forma más sencilla de pensar en Blockchain es que **es una base de datos distribuida para almacenar transacciones** económicas o de otro tipo, pero en realidad es una herramienta incuestionablemente ingeniosa, que posee muchas caracteristicas más (que explico a detalle en la sección \@ref(funcionamiento)):
+
+1. Hace uso de una infraestructura de comunicación **Peer-to-Peer** (P2P). Un modelo de red donde todos los nodos[^nodo] son iguales.
+<!-- Descentralizada, doble gasto -->
+1. Emplea **criptografía** de clave pública, para proteger la información que se transmite y guarda en la red P2P, y para garantizar que los datos sean **inmutables**, es decir, que una vez registrados no se puedan modificar o eliminar.
+1. Las transacciones son **rápidas**, al realizarse directamente de usuario a usuario (entre iguales), sin la intervención de **intermediarios**.
+1. Es **transparente**, permitiendo ver las transacciones a cualquier nodo de la red.
+<!-- Blockchain puede utilizarse para conocer la trazabilidad de un determinado contenido. -->
+1. Nodos conocidos como **mineros** gestionan la red, verificando y validando todas las transacciones. Los cuales normalmente obtienen un **incentivo** por su trabajo.
+<!-- Prueba de Trabajo (Proof of Work) -->
+1. Garantiza la **confianza** entre todos los usuarios a través de un **consenso** de mayoría obtenido con fórmulas matemáticas que aplican la **teoría de juegos**.
+1. Los participantes pueden ser **anónimos** o pseudo anónimos.
+
+Notar que los términos: nodo, usuario y participante, pueden usarse indistintamente.
+
+Como su nombre lo indica, Blockchain, que en español significa "cadena de bloques", es en la lógica una "estructura matemática" que literalmente está compuesta por una cadena de bloques, donde cada bloque es básicamente un archivo de datos con enlaces a los bloques contiguos.
+
+> Podriamos decir que está es la estructura de una base de datos en Blockchain.
+
+### Bloque
+
+El bloque
+que contiene un enlace al bloque anterior, una fecha de registro y los datos de una transacción suscitada en la red.
+
+Blockchain se puede definir como una estructura matemática para almacenar datos de una manera que es casi imposible de falsificar. Es en esencia una base de datos de transacciones (económicas o de otro tipo) que se guarda en varias computadoras y que crece constantemente a medida que se le agregan nuevas transacciones o "bloques", formando una cadena de datos continua y pública.
+
+Los mismos usuarios de la red Blockchain resuelven problemas criptográficos para identificar y validar estas transacciones, sin necesidad de confiar en una autoridad centralizada o en un intermediario (como los bancos en el sector financiero), manteniendo así el control de su información y de las transacciones.
+
+
+La tecnología Blockchain ha supuesto un avance informático fundamental, que parece resolver el "problema de los Generales Bizantinos"
+
+lo que parecía irresoluble: asegurar que una transacción digital sólo ocurra una vez.
+
+Creó el algoritmo de consenso, la prueba de trabajo, el sistema de consenso
+
+en internet ¿quién puede confiar en quien está del otro lado?
+
+
+---
+
+## Redes P2P de Blockchain
+
+Físicamente una Blockchain es una red **descentralizada** de ordenadores P2P (ó entre pares, en Español), donde todos los nodos[^nodo] utilizan un protocolo común (esto es, las reglas y condiciones de funcionamiento) para registrar transacciones en una base de datos. Al ser una red P2P (sin servidores), son los usuarios los encargados de almacenar y gestinar la información de forma individual en su propia nube, prescindiendo de los intermediarios que normalmente imponen sus reglas y comisiones.
+
+[^nodo]: **Un nodo**: es cualquier dispositivo conectado a la red, independientemente de su capacidad de cómputo; puede ser un teléfono inteligente, un ordenador personal o una superdomputadora. La única condición es que todos posean el mismo software/protocolo para comunicarse entre sí.
+
+<!-- las ventajas potenciales de la descentralización de internet son evidentes, hay que reconocer que crear estas soluciones descentralizadas es un reto técnicamente muy complejo. -->
+
+Es **distribuida** en el sentido de que Blockchain es una base de datos que se halla repartida en varios nodos de una red. Esto es un detalle de principal trascendencia ya que otorga _flexibilidad_ y _confiabilidad_ al sistema, al repartir la carga de trabajo entre las distintas computadoras.
+
+## Seguridad de Blockchain
+
+Es **Segura** no sólo por implementar un mecanismo de seguridad (la criptografía) para proteger la información. Indispensable en los ambientes distribuidos que son más propenso a sufrir ataques de seguridad, principalmente por tener diversos puntos de acceso.
+
+Desde un punto de vista técnico
+
+Consenso
+Por si fuera poco, para garantizar la seguridad, basta aclarar que todos los datos y registros almacenados en una blockchain están fuertemente encriptados.
+
+
+trazabilidad, abierta (transparencia), fiable (confianza)y flexible
+
+* Transparencia: La transparencia operativa aportada por la blockchain ha sido ya reconocida por organismos reguladores del juego como la Alderney Gambling Control Commission.
+
+A mayor número de nodos operativos, menor es la posibilidad de sufrir ataques
+
+## El valor de Blockchain
+
+Blockchain representa un nuevo modelo para la gestión de activos, que en un contexto industrial adquieren mucha más relevancia, ya que un fallo de estos sistemas puede incluso poner en riesgo vidas humanas.
+
+Blockchain aprovecha todo el potencial de la infraestructura de Internet para intercambiar información de manera segura, rápida y constante. Y gracias a la descentralización de la blockchain se puede garantizar la integridad de los datos generados, sin miedo a la manipulación de registros y sus consecuencias.
+
+## Origen de Blockchain
+
+Blockchain fue creado por una persona anónima conocida como Satoshi Nakamoto. El 1 de noviembre de 2008 "Satoshi" publicó su artículo (de tan sólo 9 páginas) ["Bitcoin: Un Sistema de Dinero Electrónico Peer-to-Peer"](http://www.bitcoin.org/bitcoin.pdf) en un foro sobre criptografía. El 9 de enero de 2009, "Satoshi" publicó el código fuente de Bitcoin versión 0.01 en el sitio web "SourceForge.net". Despues de eso y durante poco más de 2 años "Satoshi" se ha limitado a intercambiar algunos correos electrónicos. Pero en general, no se sabe nada más de el o ella.
+
+> Es posible que "Satoshi Nakamoto" sea un grupo de personas. 
+
+<!-- ¿Foro o Lista de Correo? -->
+
+## Usos de Blockchain
+
+Blockchain, tiene su origen en el sector financiero, con la creación del Bitcoin en 2009. Sin embargo, su aplicación no se limita solo a las criptomonedas, tambien se puede aplicar a muchos otros ámbitos ofreciendo diversas e importantes ventajas en relación a los sistemas de organización actuales, muy centralizados desde los últimos 200 años.
+
+> La gran mayoría de aplicaciones de la Blockchain están por diseñarse e incluso por imaginarse.
+
+Actualmente se están desarrollando iniciativas orientadas en sectores y aplicaciones de todo tipo: transporte, administración pública, salud, notariado, seguros, IoT (Internet de las cosas) en compañías de agua, gas y electricidad, suministros al pormenor,...
+
+> Con la blockchain sería posible tener un sistema totalmente abierto de notificación y rastreo universal para contenidos digitales, sistema que se podría automatizar porque todos los datos estarían en una plataforma común descentralizada. De este modo, el autor recibiría algún tipo de notificación siempre que se hiciera uso de una de sus obras y podría así ponerse en contacto con nuevas audiencias. Éstas, por su parte, podrían descubrir más creaciones del mismo autor. Y, por qué no, podría incluso existir una recompensa cada vez que se comparta una obra.
+
+## Funcionamiento de Blockchain {#funcionamiento}
+
+### Minería Blockchain
+
+## Interoperabilidad Blockchain
+
+## Retos para Blockchain
+
+La tecnología Blockchain está en auge, pero aún tiene tres grandes retos por superar: escalabilidad, interoperabilidad y sustentabilidad.
+
+### El problema de escalabilidad de las blockchains
+
+Blockchain tiene un problema: su escasez de capacidad para escalar de forma efectiva.

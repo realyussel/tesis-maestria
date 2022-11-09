@@ -4,8 +4,11 @@
 .Ruserdata
 
 bookdown/_book*
+bookdown/dosc*
 bookdown/_bookdown_files*
 bookdown/_main*
 *packages.bib*
 
 bookdown/*.Rproj
+
+bookdown/blockchain*

@@ -1,0 +1,5 @@
+# Dapps {-}
+
+Las Dapps (aplicaciones basadas en la tecnología Blockchain) constituyen un nuevo modelo de aplicaciones y el futuro de la Web.
+
+Las principales aplicaciones que usamos del internet de la información (Amazon, Airbnb, Dropbox, Facebook, Gmail, Uber o WhatsApp) funcionan bajo un modelo centralizado

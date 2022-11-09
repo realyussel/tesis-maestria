@@ -1,1 +1,33 @@
 \usepackage{booktabs}
+% Si está presente: coloque \usepackage{glosarios} y \makeglossaries después de
+\usepackage{hyperref}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+% Paquetes necesarios para los caracteres e idioma en español
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\selectlanguage{spanish}
+\languageshorthands{spanish}
+\usepackage{ae}
+\usepackage{textcomp}
+\usepackage{amsmath}
+\usepackage[T1]{fontenc}
+% Contiene la definición y estructura de APA
+\usepackage{apacite}
+
+% Paquete necesario para el glosario y los acrónimos
+% * acronym: para poner los acrónimos definidos en una lista separada,
+% * xindy: es una "herramienta de indexación superior" en vez de makeindex,
+% * toc: para que el glosario aparezca en su tabla de contenido,
+% \usepackage[nomain,acronym,xindy,toc]{glossaries}
+\usepackage[acronym]{glossaries}
+% Compilar el glosario y los acrónimos
+\makeglossaries
+% Se incluye el archivo de definición de glosario
+% \include{glosario}
+
+% \bibliographystyle{apacite}
+% Corrige las referencias al usar apacite, remplaza "y" con "&" y "cols" con "et al".
+\renewcommand{\BOthers}[1]{et al.\hbox{}}
+\renewcommand{\BBAA}{\&}
+\renewcommand{\BBAB}{\&}

@@ -1,17 +1,16 @@
-bookdown::gitbook:
-  css: style.css
-  config:
-    toc:
-      before: |
-        <li><a href="./">A Minimal Book Example</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
-    download: ["pdf", "epub"]
+bookdown::bs4_book:
+  css: bs4_style.css
+  theme:
+    primary: "#0068D9"
+  repo: https://github.com/realyussel/blockchain
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
+    before_body: frontpage.tex
+    after_body: backpage.tex
   latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
+  citation_package: natbib # Por default usa: pandoc-citeproc
+  keep_tex: no
+  number_sections: yes
+  fig_caption: yes
 bookdown::epub_book: default

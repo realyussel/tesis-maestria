@@ -1,0 +1,12 @@
+# Prólogo {-}
+
+Este documento ha sido escrito en [R-Markdown](http://rmarkdown.rstudio.com) empleando el paquete [`bookdown`](https://bookdown.org/yihui/bookdown/)  y está disponible en el repositorio Github: [realyussel/blockchain](https://github.com/realyussel/blockchain). 
+
+Estoy abierto a recibir sugerencias y correcciones con respecto al contenido de este documento. Por favor, no dude en contactar conmigo en yussel.br@gmail.com
+
+\gls{prevalencia} es un glosario \Gls{latex}
+
+\newglossaryentry{prevalencia}{
+name=prevalencia,
+description={En epidemiología, proporción de personas que sufren una, enfermedad con respecto al total de la población en estudio.}
+}

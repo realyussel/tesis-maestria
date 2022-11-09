@@ -1,0 +1,13 @@
+# Introducción
+
+## Motivación
+
+## Objetivos
+
+### Objetivo principal
+
+Este trabajo tiene por objetivo analizar el posible impacto de la tecnología Blockchain en aspectos relacionados a la Administración Pública y proporcionar los saberes y las habilidades básicas necesarias para que los funcionarios públicos conozcan las ventajas potenciales de esta tecnología y esten mejor preparados para una posible aplicación en el sector público. Para ello analizo algunas experiencias incipientes, enfatizando los principales retos y desafíos que presenta para los gobiernos su implementación, ademas de ofrecer una propuesta ~~guía básica de consejos~~ para lograr impulsar la adopción y el desarrollo de la tecnología Blockchain en el país.
+
+### Objetivos secundarios
+
+## Estructura del TFG

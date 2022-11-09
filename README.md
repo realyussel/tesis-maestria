@@ -46,9 +46,19 @@ install.packages('bookdown')
 
 ## Primeros pasos
 
-Para comenzar un libro empleando RStudio, solo se debe crear un nuevo proyecto, mediante el menú `File > New Project > New Directory > Book project` using bookdown.
+Para comenzar un libro empleando RStudio, solo se debe crear un nuevo proyecto, mediante el menú `File > New Project > New Directory > Book project using bookdown`.
 
-Lo cual creará un proyecto por defecto que se puede ir modificando (añadiendo o eliminando) los ficheros `.Rmd` correspondientes a los distintos capítulos.
+Lo cual creará un proyecto por defecto que se puede ir modificando (añadiendo o eliminando).
+
+## Uso
+
+Cada capítulo de **bookdown** es un archivo `.Rmd`, mismo que *debe* comenzar con un encabezado de primer nivel: `# Un buen capítulo`.
+
+Cada archivo puede contener un (y solo uno) encabezado de primer nivel.
+
+Use encabezados de segundo nivel y superiores dentro de los capítulos como: `## Una sección corta` o `### Una sección aún más corta`.
+
+Se requiere el archivo `index.Rmd`, mismo que será es el primer capítulo de su libro.
 
 ## PDF
 
