@@ -6,9 +6,9 @@
 bookdown/_book*
 bookdown/dosc*
 bookdown/_bookdown_files*
-bookdown/_main*
-*packages.bib*
+bookdown/_main* 
 
+bookdown/*.md
 bookdown/*.Rproj
 
 bookdown/blockchain*
