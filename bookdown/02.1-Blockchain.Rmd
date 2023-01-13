@@ -16,9 +16,61 @@ Diferentes empresas e instituciones (públicas y privadas) han apostado por la t
 
 ## ¿Qué es Blockchain?
 
-La forma más sencilla de pensar en Blockchain es que **es una base de datos distribuida para almacenar transacciones** económicas o de otro tipo, pero en realidad es una herramienta incuestionablemente ingeniosa, que posee muchas caracteristicas más (que explico a detalle en la sección \@ref(funcionamiento)):
+La forma más sencilla de pensar en Blockchain es que **es una base de datos distribuida para almacenar transacciones**, las cuales pueden ser económicas o de otro tipo. Blockchain es una herramienta incuestionablemente ingeniosa, que ofrece varias ventajas importantes sobre las bases de datos tradicionales:
+
+1. **Inmutabilidad**: una vez que se agrega un (bloque[^bloque]) a la blockchain, no puede ser modificado. Esto hace que las blockchains sean resistentes a la manipulación de datos y a la falsificación de información.
+
+[^bloque]: Un bloque de blockchain es un registro de transacciones que se almacena en una base de datos distribuida y descentralizada llamada blockchain.
+
+1. **Seguridad**: las blockchains utilizan criptografía para proteger la integridad de los datos y garantizar que solo los usuarios autorizados puedan acceder a ellos.
+1. **Descentralización**: las blockchains no dependen de una única entidad o computadora para su funcionamiento, sino que utilizan una red de nodos para validar y almacenar los datos. Esto hace que las blockchains sean resistentes a los ataques y a la censura.
+1. **Transparencia**: las transacciones en una blockchain son públicas y pueden ser verificadas por cualquier persona. Esto permite una mayor transparencia en las transacciones y una mayor confianza entre las partes involucradas.
+1. **Eficiencia**: las blockchains pueden automatizar procesos y eliminar la necesidad de intermediarios, lo que puede llevar a una mayor eficiencia y una reducción de costos.
+
+Para profundizar y enterder a blockchain es necesario, comprender algunos términos claves de su funcionamiento, cómo:
+
+1. Nodo,
+1. Transación,
+1. y Bloque.
+
+Términos que a su vez nos llevarán a conocer otros conceptos igual de importantes, cómo:
+
+1. Pear to Pear (P2P),
+1. Nodos mineros,
+1. Contrato inteligente,
+1. Encriptación.
+
+## Nodos
 
 1. Hace uso de una infraestructura de comunicación **Peer-to-Peer** (P2P). Un modelo de red donde todos los nodos[^nodo] son iguales.
+
+Los nodos son esenciales para el buen funcionamiento de una red blockchain, ya que aseguran la descentralización y la seguridad de la red.
+
+Un nodo de blockchain es un ordenador que forma parte de una red blockchain y se encarga de validar y transmitir transacciones y bloques. Los nodos también almacenan una copia de la cadena de bloques completa y la mantienen actualizada.
+
+Existen diferentes tipos de nodos en una red blockchain:
+
+1. **Nodos completos**: estos nodos descargan y almacenan la cadena de bloques completa y participan en la validación de transacciones y bloques.
+1. **Nodos ligeros**: estos nodos no almacenan la cadena de bloques completa, sino que se conectan a un nodo completo para obtener información y validar transacciones.
+1. **Nodos mineros**: estos nodos participan en la minería de bloques, es decir, en el proceso de creación de nuevos bloques y su añadido a la cadena.
+
+## Transaciones
+
+Una transacción de blockchain es una operación que se realiza en una red blockchain. Las transacciones de blockchain pueden ser de varios tipos, como el envío de criptomonedas de una dirección a otra, la escritura de información en una base de datos descentralizada o la ejecución de un contrato inteligente.
+
+Cada transacción de blockchain es validada por los nodos de la red y, una vez que es aprobada, se agrega a un bloque de la cadena. Una vez que un bloque se agrega a la cadena, las transacciones contenidas en él son permanentes y no pueden ser modificadas.
+
+Las transacciones de blockchain son seguras y transparentes, ya que todos los usuarios de la red pueden ver y verificar las transacciones. Además, gracias a la tecnología de encriptación utilizada en las blockchains, es muy difícil alterar o falsificar las transacciones.
+
+## Bloques
+
+Cada bloque de blockchain contiene varios elementos, incluyendo:
+
+1. **Transacciones**: los bloques de blockchain suelen contener una lista de transacciones que se han realizado en la red.
+1. **Hash**: un hash es una cadena única de caracteres generada a partir de los datos de un bloque. Los hashes son utilizados para identificar de manera única cada bloque y para asegurar la integridad de los datos.
+1. **Hash del bloque anterior**: cada bloque de blockchain contiene el hash del bloque anterior en la cadena, lo que permite que los bloques estén encadenados entre sí y formen una cadena segura.
+1. **Nonce**: un nonce es un número utilizado en la minería de bloques para crear un hash que cumpla con ciertas condiciones.
+
 <!-- Descentralizada, doble gasto -->
 1. Emplea **criptografía** de clave pública, para proteger la información que se transmite y guarda en la red P2P, y para garantizar que los datos sean **inmutables**, es decir, que una vez registrados no se puedan modificar o eliminar.
 1. Las transacciones son **rápidas**, al realizarse directamente de usuario a usuario (entre iguales), sin la intervención de **intermediarios**.
