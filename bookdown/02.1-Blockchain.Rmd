@@ -2,7 +2,18 @@
 
 ## Introducción a Blockchain
 
-Blockchain es una de las tecnologías más disruptivas de la actualidad (más allá de las criptomonedas), es una herramienta nueva (ideada por "Satoshi Nakamoto" en 2008) que en los últimos años ha generado grandes expectativas. Y es tendencia en el desarrollo de tecnologías de software (DApps[^dapps]) que esta creciendo y madurando rapidamente.
+Blockchain es una tecnología nueva (ideada por "Satoshi Nakamoto" en 2008) cuya primera aplicación fue la criptomoneda Bitcoin en 2009, la cual desde un punto de vista financiero, podría revolucionar al mundo. Esto ya a hecho que Blockchain sea una de las tecnologías más disruptivas de la actualidad, sin embargo, los usos de la red Blockchain van más allá de las criptomonedas.
+
+La blockchain proporciona una base de datos conocida como «ledger» (libro de registros) para procesar transacciones electrónicas de forma que no es necesaria una autoridad central
+
+
+ En este sentido, la blockchain
+puede proporcionar robustez, seguridad, transparencia y escalabilidad a grandes sistemas de datos,
+lo que permite hacer frente a un amplio abanico
+de amenazas.
+
+
+que en los últimos años ha generado grandes expectativas. Y es tendencia en el desarrollo de tecnologías de software (DApps[^dapps]) que esta creciendo y madurando rapidamente.
 
 [^dapps]: **Las DApps** (o Aplicaciones descentralizadas) son una categoría especial de aplicaciones que funciona en base a un sistema de computación distribuido, generalmente a través de tecnología Blockchain.
 

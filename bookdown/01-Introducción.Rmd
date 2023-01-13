@@ -1,13 +1,38 @@
 # Introducción
 
+Vivimos en un mundo de constante cambio y evolución, donde la tecnología es nuestro mejor aliado y motor de varias innovaciones sociales. Los avances de la tecnología y la comunicación abren oportunidades sin precedentes para que la sociedad se organice y exija resultados a sus gobernantes.
+
+A partir de la creación de Internet, las bases de datos han sido un sistema clave y una necesidad en la sociedad. Esto ha llevado al nacimiento de una tecnología descentralizada denominada Blockchain o cadena de bloques.
+
+Una tecnología con multiples aplicaciones, que podría mejorar los sistemas nacionales de gestión pública
+
+
+ estudios sobre la modernización del gobierno y la reforma de la gestión
+pública. 
+
+ gestión pública efectiva, eficiente y transparente
+
+
+, recapitulando tambien, algunas experiencias incipientes a nivel mundial, con enfasis en los principales retos y desafíos que represento para los gobiernos su implementación.
+
 ## Motivación
+
+La elección del tema objeto de estudio responde principalmente a una motivación personal dado mi interés por la tecnología y sus aplicaciones en nuestra sociedad. A través de este trabajo pretendo acercar la tecnología Blockchain para que los funcionarios públicos comprendan y conozcan sus ventajas potenciales frente a otros módelos tradicionales. Demostrando cómo 
 
 ## Objetivos
 
 ### Objetivo principal
 
-Este trabajo tiene por objetivo analizar el posible impacto de la tecnología Blockchain en aspectos relacionados a la Administración Pública y proporcionar los saberes y las habilidades básicas necesarias para que los funcionarios públicos conozcan las ventajas potenciales de esta tecnología y esten mejor preparados para una posible aplicación en el sector público. Para ello analizo algunas experiencias incipientes, enfatizando los principales retos y desafíos que presenta para los gobiernos su implementación, ademas de ofrecer una propuesta ~~guía básica de consejos~~ para lograr impulsar la adopción y el desarrollo de la tecnología Blockchain en el país.
+Este trabajo tiene como objetivo **analizar como la tecnología Blockchain se puede utilizar para mejorar el gobierno**. Por lo tanto, para el tema que nos ocupa, analizaremos a Blockchain; sú origen, su funcionamiento e innovadores usos que se le han dado (o podrían dar) a esta tecnología al interior de las instituciones del Estado.
+
+Adicionalmente, y desde una perspectiva social, financiera y jurídica se presentá un diagnóstico de los instrumentos y metodologías de gestión pública actuales de los sistemas nacionales para ejecutar políticas públicas de manera efectiva, eficiente y transparente.
 
 ### Objetivos secundarios
+
+1. Proporcionar los saberes y las habilidades básicas necesarias para que los funcionarios públicos conozcan las ventajas potenciales del uso de Blockchain en el sector público.
+
+2. Formular una propuesta de política pública para impulsar el desarrollo y adopción de la tecnología Blockchain en el Gobierno.
+
+~~y esten mejor preparados para una posible aplicación~~
 
 ## Estructura del TFG
