@@ -1,6 +1,33 @@
 # Sector público {-}
 
-El sector público es uno de los más interesados en potenciar el uso de la blockchain. Un ejemplo de ello es Guardtime31que, impulsado por el Gobierno de Estonia
+Blockchain permite a los gobiernos realizar el cobro de impuestos de manera automática y en el instante, eliminando así las prácticas de corrupción a las que actualmente nos enfrentamos.
+
+Blockchain puede proporcionar una transparencia radical al gobierno en la cuarta transformación, ya que toda la información sobre el presupuesto de egresos aparecería fiel y precisa.
+
+> La adopción empresarial de la tecnología blockchain sigue siendo extremadamente limitada, principalmente porque, fuera de los departamentos de innovación, a nadie le importa la tecnología, solo los problemas comerciales que puede resolver.
+
+El sector público es uno de los más interesados en potenciar el uso de la blockchain. Un ejemplo de ello es Guardtime, impulsado por el Gobierno de Estonia
+
+# Guardtime
+
+La empresa de tecnología Guardtime ha desarrollado desde 2008 en Estonia una cadena de bloques llamada KSI (KSI Blockchain), con la cual ha construido múltiples servicios y productos para el sector gubernamental, sanitario y financiero. Productos que van desde telecomunicaciones, auditoría y cumplimiento, ciberrango e incluso espacio y salud.
+
+Los servicios relacionados con la cadena de bloques de KSI son implementados por la compañía de telecomunicaciones estadounidense Verizon, las compañías farmacéuticas Roche y AstraZeneca, las organizaciones científicas Agencia Espacial Europea, el grupo de la industria de defensa Lockheed Martin, actores financieros como SEB Bank y los gobiernos de muchos países, incluidos Estonia y los Países Bajos.
+
+Desde 2020, KSI Blockchain también está acreditado como el primer servicio de confianza basado en blockchain bajo la regulación eIDAS,
+
+Una de las últimas soluciones de Guardtime, es el producto TrueTrail,
+
+Con oficinas en Tallinn, Estonia y Lausana, Suiza
+
+
+# The BlockRx Project
+
+# PokitdoK
 
 # (APPENDIX) Apéndices {-}
 <!-- Los capítulos posteriores se tratarán como apéndices -->
+
+# Protocolos
+
+# Factom

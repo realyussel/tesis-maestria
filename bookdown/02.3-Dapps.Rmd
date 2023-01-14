@@ -1,5 +1,21 @@
 # Dapps {-}
 
-Las Dapps (aplicaciones basadas en la tecnología Blockchain) constituyen un nuevo modelo de aplicaciones y el futuro de la Web.
+Las principales aplicaciones que usamos del internet de la información (Amazon, Airbnb, Dropbox, Facebook, Gmail, Uber o WhatsApp) funcionan bajo un modelo centralizado. Pero, con el crecimiento de las criptomonedas y la tecnología blockchain, hay un aumento en el interés en desarrollar aplicaciones de software descentralizadas (DApps[^dapps]) como una forma de ofrcer una mayor seguridad, transparencia y resistencia a la censura en comparación con las aplicaciones tradicionales.
 
-Las principales aplicaciones que usamos del internet de la información (Amazon, Airbnb, Dropbox, Facebook, Gmail, Uber o WhatsApp) funcionan bajo un modelo centralizado
+[^dapps]: **DApps** (Decentralized Applications) 
+
+Las DApps (Decentralized Applications) son una categoría especial de aplicaciones que funciona en base a un sistema de computación distribuido, generalmente a través de tecnología Blockchain, como la red de Ethereum, o una red distribuida de otro tipo. A diferencia de las aplicaciones tradicionales, que se ejecutan en un servidor centralizado.
+
+Algunas características de las DApps son:
+
+1. Tienen un código abierto, lo que significa que cualquiera puede acceder al código fuente y modificarlo.
+1. Son descentralizadas, lo que significa que no están controladas por una sola entidad.
+1. Utilizan una criptomoneda nativa para pagar transacciones y para compensar a los mineros que proporcionan recursos computacionales a la red.
+1. Son resistentes a la censura, ya que no hay un punto central que pueda ser bloqueado o controlado.
+
+Algunos ejemplos de DApps son:
+
+1. Exchanges de criptomonedas descentralizadas,
+1. Juegos en línea,
+1. Plataformas de votación,
+1. Sistemas de identidad descentralizados.

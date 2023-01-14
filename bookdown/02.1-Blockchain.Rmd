@@ -1,33 +1,96 @@
-# Definición de Blockchain {-}
+# Blockchain {-}
 
-## Introducción a Blockchain
+# ¿Qué es Blockchain?
 
-Blockchain es una tecnología nueva (ideada por "Satoshi Nakamoto" en 2008) cuya primera aplicación fue la criptomoneda Bitcoin en 2009, la cual desde un punto de vista financiero, podría revolucionar al mundo. Esto ya a hecho que Blockchain sea una de las tecnologías más disruptivas de la actualidad, sin embargo, los usos de la red Blockchain van más allá de las criptomonedas.
+Blockchain es una tecnología nueva (ideada por "Satoshi Nakamoto" en 2008) cuya primera aplicación fue la criptomoneda Bitcoin en 2009, la cual tienen el potencial de revolucionar la forma en que se realizan transacciones financieras. Sin embargo, también hay preocupaciones sobre la volatilidad del precio de Bitcoin y su uso potencial en actividades ilegales.
 
-La blockchain proporciona una base de datos conocida como «ledger» (libro de registros) para procesar transacciones electrónicas de forma que no es necesaria una autoridad central
+> Bitcoin es una criptomoneda descentralizada que utiliza tecnología blockchain para permitir transacciones seguras y transparentes sin la necesidad de un intermediario. Aunque todavía está en desarrollo y no está ampliamente adoptado como medio de pago.
 
+Blockchain se considera una tecnología disruptiva, pues tiene el potencial de transformar varias industrias, incluyendo finanzas, logística, votaciones en línea, identidad digital y más. Además, tiene la capacidad de mejorar la transparencia, reducir los costos, aumentar la eficiencia y aumentar la confianza en las transacciones digitales.
 
- En este sentido, la blockchain
-puede proporcionar robustez, seguridad, transparencia y escalabilidad a grandes sistemas de datos,
-lo que permite hacer frente a un amplio abanico
-de amenazas.
+Blockchain es la base para el funcionamiento de las criptomonedas, pero sus usos van más allá de estás, con aplicaciones en una variedad de otros campos:
 
+1. **Finanzas**: Blockchain puede utilizarse para facilitar transacciones financieras más rápidas, más seguras y más eficientes.
 
-que en los últimos años ha generado grandes expectativas. Y es tendencia en el desarrollo de tecnologías de software (DApps[^dapps]) que esta creciendo y madurando rapidamente.
+1. **Internet of Things (IoT)**: Blockchain puede utilizarse para gestionar y proteger los datos de los dispositivos IoT, permitiendo una mayor seguridad y privacidad.
 
-[^dapps]: **Las DApps** (o Aplicaciones descentralizadas) son una categoría especial de aplicaciones que funciona en base a un sistema de computación distribuido, generalmente a través de tecnología Blockchain.
+1. **Identidad**: Blockchain puede utilizarse para almacenar información de identidad de manera segura y compartirla de manera seleccionada con terceros.
+
+1. **Contratos inteligentes**: Blockchain puede utilizarse para la automatización de procesos y la eliminación de intermediarios en transacciones, lo que podría ser muy útil para aplicaciones en el mundo real, como:
+  
+  1. **Supply Chain** para rastrear productos a lo largo de toda la cadena de suministro, desde los fabricantes hasta los minoristas.
+  
+  1. **Comercio de activos digitales**.
+  
+  1. **Gestión de votaciones en línea** de manera segura y transparente, lo que ayuda a garantizar la confianza en los resultados.
+  
+  1. **Propiedad intelectual**; como patentes, marcas registradas y derechos de autor.
+  
+  1. **Proyectos de caridad** para garantizar la transparencia y la eficacia en el uso de los fondos.
+
+1. Entre muchos otros usos posibles.
+
+En conclusión, la tecnología Blockchain puede proporcionar robustez, seguridad, transparencia y escalabilidad a grandes sistemas de datos, lo que permite hacer frente a un amplio abanico de amenazas, en caso de ataques cibernéticos, disputas o mal funcionamiento del sistema.
+
+# Ethereum
+
+Ethereum es una red Blockchain muy popular, que permite la creación y ejecución de aplicaciones descentralizadas (DApps) y contratos inteligentes.
+
+La diferencia entre Ethereum y otras plataformas Blockchain como Bitcoin, es que Ethereum es programable. Esto significa que se pueden escribir programas, llamados contratos inteligentes.
+
+Ethereum tiene un lenguaje de programación específico llamado Solidity y utiliza su propia criptomoneda, Ether (ETH), como medio de pago.
+
+# Contratos inteligentes
+
+Los contratos inteligentes son programas que se ejecutan en una Blockchain y que automatizan la ejecución de un contrato.
+
+Estos contratos tienen reglas y condiciones escritas en código, y se activan automáticamente cuando se cumplen ciertas condiciones predefinidas. Además, al estar registrados en la Blockchain, los contratos inteligentes son seguros, transparentes y no modificables.
+
+Los contratos inteligentes pueden ser utilizados para una amplia variedad de aplicaciones, como:
+
+1. Transacciones financieras automatizadas,
+1. Escrow para garantizar el cumplimiento de un contrato,
+1. Sistemas de votación,
+1. Identidad digital y autenticación,
+1. Procesos de subastas,
+1. Procesos de compra y venta de bienes,
+1. Procesos de alquiler,
+1. Entre otros.
+
+Las reglas de los contratos inteligentes deben ser escritas cuidadosamente para evitar errores o vulnerabilidades que podrían causar problemas en su ejecución. Algunos ejemplos de reglas comunes en los contratos inteligentes incluyen:
+
+1. **Verificación de identidad**: para asegurar que solo las partes autorizadas pueden interactuar con el contrato.
+1. **Validación de transacciones**: para asegurar que las transacciones cumplen con ciertos criterios antes de ser aceptadas.
+1. **Condiciones de ejecución**: para especificar cuándo y cómo se deben ejecutar las acciones definidas en el contrato.
+1. **Lógica de negocio**: para definir las reglas y las restricciones del negocio en el que se basa el contrato.
+1. **Acciones automatizadas**: para especificar las acciones que se deben ejecutar automáticamente cuando se cumplen ciertas condiciones.
+
+# Tipos de Blockchains
+
+Existen un gran número de cadenas de bloques o Blockchain diferentes en el mercado. Algunas de las más conocidas son Bitcoin, Ethereum, Litecoin, Ripple y Bitcoin Cash. Además de estas criptomonedas, hay muchas otras cadenas de bloques que se utilizan para fines específicos, como la cadena de bloques EOS para aplicaciones descentralizadas, la cadena de bloques Hyperledger para proyectos empresariales, y la cadena de bloques IOTA para el Internet de las cosas.
+
+Además de estas, existen muchas otras Blockchains que han sido creadas con objetivos específicos:
+
+1. **Blockchains publicas**: son las que son abiertas a todos y cualquier persona puede participar en la red y enviar transacciones. Ejemplos de estas incluyen Bitcoin y Ethereum.
+1. **Blockchain privada**: es una blockchain que solo puede ser utilizada por un grupo seleccionado de participantes. Estas blockchains son utilizadas principalmente por empresas y organizaciones para almacenar y compartir información confidencial de manera segura.
+1. **Blockchain de consorcio**: es una combinación de ambas, donde un grupo seleccionado de participantes tienen acceso a la red, pero también se permite a ciertos individuos o organizaciones externas unirse a la red. Estas blockchains son utilizadas principalmente en proyectos colaborativos entre diferentes organizaciones.
+1. **Blockchain basadas en PoA (Proof of Authority)**: Es una blockchain donde los nodos validadores son elegidos previamente y tienen autoridad para validar transacciones.
+1. **Blockchain basadas en PoS (Proof of Stake)**: Es una blockchain donde los nodos validadores son elegidos de acuerdo a la cantidad de criptomoneda que poseen.
+1. **Blockchain basadas en DAG (Directed Acyclic Graph)**: Es una blockchain donde las transacciones no son almacenadas en bloques sino en un grafo acíclico dirigido.
+
+Cada tipo de blockchain tiene sus propias ventajas y desventajas, y su elección dependerá del uso que se le quiera dar.
 
 <!-- La base de esta disrupción es la confianza. -->
 
-> Algunos expertos afirman que Blockchain es una tecnología tan prometedora como lo era Internet hace 20 años.
+# Funcionamiento de blockchain
 
-Si bien, el fúturo de Blockchain es una incógnita, tambien es muy probable que sea la próxima "revolución tecnologíca" que  cambiará la forma en que las entidades y particulares interactuamos a través de la red. Quizas, sólo sea cuestión de tiempo para una adopción progresiva de esta tecnología.
+Diferentes empresas e instituciones (públicas y privadas) han apostado por la tecnología blockchain, pero antes de entender cúales son sus aplicaciones y aspiraciones, es de vital importancia responder exactamente ¿Qué es y Qué ofrece Blockchain?.
 
-Diferentes empresas e instituciones (públicas y privadas) han apostado por la tecnología Blockchain, pero antes de entender cúales son sus aplicaciones y aspiraciones, es de vital importancia responder exactamente ¿Qué es y Qué ofrece Blockchain?.
+> "Una blockchain no es otra cosa que una base de datos que se halla distribuida entre diferentes participantes, protegida criptográficamente y organizada en bloques de transacciones relacionados entre sí matemáticamente."
 
-## ¿Qué es Blockchain?
+La forma más sencilla de pensar en blockchain es que **es una base de datos distribuida para almacenar transacciones**, las cuales pueden ser económicas o de otro tipo. Es un recurso indispensable, pues a partir de la creación de Internet, las bases de datos han sido un sistema clave y una necesidad en la sociedad.
 
-La forma más sencilla de pensar en Blockchain es que **es una base de datos distribuida para almacenar transacciones**, las cuales pueden ser económicas o de otro tipo. Blockchain es una herramienta incuestionablemente ingeniosa, que ofrece varias ventajas importantes sobre las bases de datos tradicionales:
+Blockchain es una herramienta incuestionablemente ingeniosa, que ofrece varias ventajas importantes sobre las bases de datos tradicionales:
 
 1. **Inmutabilidad**: una vez que se agrega un (bloque[^bloque]) a la blockchain, no puede ser modificado. Esto hace que las blockchains sean resistentes a la manipulación de datos y a la falsificación de información.
 
@@ -35,8 +98,10 @@ La forma más sencilla de pensar en Blockchain es que **es una base de datos dis
 
 1. **Seguridad**: las blockchains utilizan criptografía para proteger la integridad de los datos y garantizar que solo los usuarios autorizados puedan acceder a ellos.
 1. **Descentralización**: las blockchains no dependen de una única entidad o computadora para su funcionamiento, sino que utilizan una red de nodos para validar y almacenar los datos. Esto hace que las blockchains sean resistentes a los ataques y a la censura.
+1. **Desintermediación**: blockchain permite la automatización de procesos y la eliminación de intermediarios en transacciones, lo que reduce costos y aumenta la eficiencia.
 1. **Transparencia**: las transacciones en una blockchain son públicas y pueden ser verificadas por cualquier persona. Esto permite una mayor transparencia en las transacciones y una mayor confianza entre las partes involucradas.
 1. **Eficiencia**: las blockchains pueden automatizar procesos y eliminar la necesidad de intermediarios, lo que puede llevar a una mayor eficiencia y una reducción de costos.
+1. Posibilidad de crear nuevos negocios: blockchain permite la creación de nuevos negocios y modelos de negocio.
 
 Para profundizar y enterder a blockchain es necesario, comprender algunos términos claves de su funcionamiento, cómo:
 
@@ -50,6 +115,10 @@ Términos que a su vez nos llevarán a conocer otros conceptos igual de importan
 1. Nodos mineros,
 1. Contrato inteligente,
 1. Encriptación.
+
+# Ledger
+
+Un ledger (libro mayor) es un registro contable que se utiliza para llevar un registro de las transacciones financieras de una organización. Los ledgers pueden ser físicos o digitales y suelen incluir información como fechas, cantidades, partes involucradas y descripciones de las transacciones. El término "ledger" también se utiliza para describir el sistema informático que lleva registro de las transacciones en una cadena de bloques (blockchain). Un ledger distribuido es un registro compartido y sincronizado de transacciones, mantenido por una red descentralizada de nodos. Este tipo de ledger se utiliza en blockchain para registrar y verificar transacciones, y asegurar que todas las copias del registro son idénticas.
 
 ## Nodos
 
@@ -169,7 +238,7 @@ Actualmente se están desarrollando iniciativas orientadas en sectores y aplicac
 
 > Con la blockchain sería posible tener un sistema totalmente abierto de notificación y rastreo universal para contenidos digitales, sistema que se podría automatizar porque todos los datos estarían en una plataforma común descentralizada. De este modo, el autor recibiría algún tipo de notificación siempre que se hiciera uso de una de sus obras y podría así ponerse en contacto con nuevas audiencias. Éstas, por su parte, podrían descubrir más creaciones del mismo autor. Y, por qué no, podría incluso existir una recompensa cada vez que se comparta una obra.
 
-## Funcionamiento de Blockchain {#funcionamiento}
+## Confidencialidad
 
 ### Minería Blockchain
 
@@ -178,6 +247,8 @@ Actualmente se están desarrollando iniciativas orientadas en sectores y aplicac
 ## Retos para Blockchain
 
 La tecnología Blockchain está en auge, pero aún tiene tres grandes retos por superar: escalabilidad, interoperabilidad y sustentabilidad.
+
+Los problemas de escalabilidad, así como el rendimiento y la velocidad de las transacciones limitadas, han sido problemas importantes relacionados con la adopción de blockchain a nivel mundial
 
 ### El problema de escalabilidad de las blockchains
 

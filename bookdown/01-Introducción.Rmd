@@ -1,29 +1,28 @@
 # Introducción
 
-Vivimos en un mundo de constante cambio y evolución, donde la tecnología es nuestro mejor aliado y motor de varias innovaciones sociales. Los avances de la tecnología y la comunicación abren oportunidades sin precedentes para que la sociedad se organice y exija resultados a sus gobernantes.
+Un gobierno blockchain es una idea de cómo la tecnología blockchain podría ser utilizada para transformar la forma en que los gobiernos funcionan. Es decir, es una transformación digital gubernamental, que involucra innovar en diferentes aspectos.
 
-A partir de la creación de Internet, las bases de datos han sido un sistema clave y una necesidad en la sociedad. Esto ha llevado al nacimiento de una tecnología descentralizada denominada Blockchain o cadena de bloques.
+En teoría, un gobierno blockchain es un sistema descentralizado, con multiples aplicaciones que aportan valor al gobierno, aumentando la confianza de los ciudadanos, al generar una transparencia radical en los sistemas de gestión pública; cómo las cadenas de suministro, la gestión de identidades, los servicios financieros, los servicios de salud y mucho más.
 
-Una tecnología con multiples aplicaciones, que podría mejorar los sistemas nacionales de gestión pública
+Vivimos en un mundo de constante cambio y evolución, donde la tecnología es nuestro mejor aliado y motor de varias innovaciones sociales. Los avances de la tecnología y la comunicación nos han abierto oportunidades sin precedentes para que la sociedad se organice y exija resultados a sus gobernantes.
 
+Internet ha permitido a los ciudadanos tener una mayor acceso a la información y una mayor participación en la toma de decisiones políticas. Por otro lado, también ha planteado desafíos para los gobiernos en términos de regulación, privacidad y seguridad. Aqui es donde entra blockchain como una tecnología que se enfoca en la gestión de transacciones y activos de manera segura y descentralizada.
 
- estudios sobre la modernización del gobierno y la reforma de la gestión
-pública. 
+La tecnología blockchain se ha comparado con Internet en términos de su potencial para transformar varios aspectos de la sociedad y la economía. Al igual que Internet, blockchain tiene el potencial de crear nuevos negocios y modelos de negocio, cambiar la forma en que se intercambian valores, y transformar la forma en que las organizaciones y las personas interactúan.
 
- gestión pública efectiva, eficiente y transparente
+Sin embargo, es importante tener en cuenta que la tecnología blockchain aún se encuentra en desarrollo, y aún hay desafíos técnicos y reguladores que deben ser superados antes de que pueda alcanzar su pleno potencial. A diferencia de Internet, que se ha convertido en una infraestructura básica para la sociedad y la economía, blockchain todavía tiene que demostrar su capacidad para ser adoptado y utilizado a gran escala.
 
-
-, recapitulando tambien, algunas experiencias incipientes a nivel mundial, con enfasis en los principales retos y desafíos que represento para los gobiernos su implementación.
+El futuro de la tecnología blockchain es incierto y depende de varios factores, como el desarrollo de la tecnología, la adopción por parte de las empresas y las regulaciones gubernamentales. Aunque se espera que tenga un gran impacto en diferentes industrias, todavía hay incertidumbre sobre cómo se desarrollará y cuál será el alcance de su impacto.
 
 ## Motivación
 
-La elección del tema objeto de estudio responde principalmente a una motivación personal dado mi interés por la tecnología y sus aplicaciones en nuestra sociedad. A través de este trabajo pretendo acercar la tecnología Blockchain para que los funcionarios públicos comprendan y conozcan sus ventajas potenciales frente a otros módelos tradicionales. Demostrando cómo 
+La elección del tema objeto de estudio responde principalmente a una motivación personal dado mi interés por la tecnología y sus aplicaciones en nuestra sociedad. A través de este trabajo pretendo acercar la tecnología Blockchain a los funcionarios y administradores públicos, para que comprendan y conozcan sus ventajas potenciales, así como para demostrar que blockchain es un componente tecnológico de verdadero valor agregado en los sistemas digitales contemporáneos.
 
 ## Objetivos
 
 ### Objetivo principal
 
-Este trabajo tiene como objetivo **analizar como la tecnología Blockchain se puede utilizar para mejorar el gobierno**. Por lo tanto, para el tema que nos ocupa, analizaremos a Blockchain; sú origen, su funcionamiento e innovadores usos que se le han dado (o podrían dar) a esta tecnología al interior de las instituciones del Estado.
+Este trabajo tiene como objetivo **analizar como la tecnología Blockchain se puede utilizar para mejorar el gobierno**. Por lo tanto, para el tema que nos ocupa, analizaremos a Blockchain; sú origen, su funcionamiento e innovadores usos que se le han dado (o podrían dar) a esta tecnología al interior de las instituciones del estado.
 
 Adicionalmente, y desde una perspectiva social, financiera y jurídica se presentá un diagnóstico de los instrumentos y metodologías de gestión pública actuales de los sistemas nacionales para ejecutar políticas públicas de manera efectiva, eficiente y transparente.
 
