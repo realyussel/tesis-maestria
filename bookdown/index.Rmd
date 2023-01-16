@@ -1,6 +1,6 @@
 --- 
 title: "Blockchain"
-# Politicas Públicas para un Gobierno blockchain
+# Políticas Públicas para construir gobiernos blockchain efectivos
 author: "Irving Yussel Blanco Rodríguez"
 date: "`r Sys.Date()`"
 # url: your book url like https://bookdown.org/yihui/bookdown
